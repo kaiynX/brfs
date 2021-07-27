@@ -9,7 +9,7 @@
   "dependencies": {
     "quote-stream": "^1.0.1",
     "resolve": "^1.1.5",
-    "static-module": "^3.0.2",
+    "static-module": "https://github.com/kaiynX/static-module.git#3.0.4-NexusIQ-patch",
     "through2": "^2.0.0"
   },
   "devDependencies": {
